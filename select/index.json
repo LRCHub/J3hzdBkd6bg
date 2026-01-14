@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "soldier game",
+  "base_artist": "Ado",
+  "createdAt": "2026-01-14T02:41:47.619742Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "soldier game",
+      "artist": "西木野真姫(CV.Pile), 園田海未(CV.三森すずこ) & 絢瀬絵里(CV.南條愛乃)",
+      "has_synced": false,
+      "path": "select/01_soldier_game_西木野真姫(CV.Pile),_園田海未(CV.三森すずこ)_&_絢瀬絵里(CV.南條愛乃).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "soldier game",
+      "artist": "西木野真姫 (CV.Pile)、園田海未 (CV.三森すずこ)、絢瀬絵里 (CV.南條愛乃)",
+      "has_synced": true,
+      "path": "select/02_soldier_game_西木野真姫_(CV.Pile)、園田海未_(CV.三森すずこ)、絢瀬絵里_(CV.南條愛乃).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "soldier game",
+      "artist": "西木野真姫（Pile）・園田海未（三森すずこ）・絢瀬絵里（南條愛乃）",
+      "has_synced": true,
+      "path": "select/03_soldier_game_西木野真姫(Pile)・園田海未(三森すずこ)・絢瀬絵里(南條愛乃).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "soldier game(MAKI Mix)",
+      "artist": "西木野真姫(CV.Pile)",
+      "has_synced": false,
+      "path": "select/04_soldier_game(MAKI_Mix)_西木野真姫(CV.Pile).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "soldier game",
+      "artist": "西木野真姫(CV.Pile)",
+      "has_synced": false,
+      "path": "select/05_soldier_game_西木野真姫(CV.Pile).txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "soldier game",
+      "artist": "西木野真姫(CV.Pile), 園田海未(CV.三森すずこ)",
+      "has_synced": false,
+      "path": "select/06_soldier_game_西木野真姫(CV.Pile),_園田海未(CV.三森すずこ).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "soldier game",
+      "artist": "Nishikino, Maki(CV.Pile), Sonoda, Umi(CV.Mimori, Suzuko) & Ayase, Eli(CV.Nanjō, Yoshino)",
+      "has_synced": false,
+      "path": "select/07_soldier_game_Nishikino,_Maki(CV.Pile),_Sonoda,_Umi(CV.Mimori,_Suzuko)_&_Ayase,_Eli(CV.Nanjō,_.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "soldier game",
+      "artist": "nishikino maki",
+      "has_synced": false,
+      "path": "select/08_soldier_game_nishikino_maki.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "soldier game",
+      "artist": "Maki Nishikino (CV.Pile), Umi Sonoda (CV.Suzuko Mimori) & Eli Ayase (CV.Yoshino Nanjō)",
+      "has_synced": false,
+      "path": "select/09_soldier_game_Maki_Nishikino_(CV.Pile),_Umi_Sonoda_(CV.Suzuko_Mimori)_&_Eli_Ayase_(CV.Yoshino_.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "soldier game",
+      "artist": "μ’s",
+      "has_synced": false,
+      "path": "select/10_soldier_game_μ’s.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "soldier game（ELI Mix）",
+      "artist": "絢瀬絵里",
+      "has_synced": false,
+      "path": "select/11_soldier_game(ELI_Mix)_絢瀬絵里.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "soldier game（MAKI Mix）",
+      "artist": "西木野真姫",
+      "has_synced": false,
+      "path": "select/12_soldier_game(MAKI_Mix)_西木野真姫.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "soldier game",
+      "artist": "西木野真姫",
+      "has_synced": false,
+      "path": "select/13_soldier_game_西木野真姫.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "soldier game（UMI Mix）",
+      "artist": "園田海未",
+      "has_synced": false,
+      "path": "select/14_soldier_game(UMI_Mix)_園田海未.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "soldier game",
+      "artist": "maki nishikino",
+      "has_synced": false,
+      "path": "select/15_soldier_game_maki_nishikino.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "soldier game",
+      "artist": "西木野真姫(CV.Pile),園田海未(CV.三森すずこ)＆絢瀬絵里(CV.南條愛乃)",
+      "has_synced": true,
+      "path": "select/16_soldier_game_西木野真姫(CV.Pile),園田海未(CV.三森すずこ)&絢瀬絵里(CV.南條愛乃).lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "soldier game (ELI Mix)",
+      "artist": "絢瀬絵里",
+      "has_synced": false,
+      "path": "select/17_soldier_game_(ELI_Mix)_絢瀬絵里.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "soldier game (MAKI Mix)",
+      "artist": "西木野真姫",
+      "has_synced": false,
+      "path": "select/18_soldier_game_(MAKI_Mix)_西木野真姫.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "soldier game (UMI Mix)",
+      "artist": "園田海未",
+      "has_synced": false,
+      "path": "select/19_soldier_game_(UMI_Mix)_園田海未.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "soldier game",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_soldier_game_Ado.txt"
+    }
+  ]
+}
